@@ -1,0 +1,15 @@
+C:\Mon_Code\Replace two words\bin\Debug\net7.0\Replace two words.exe
+C:\Mon_Code\Replace two words\bin\Debug\net7.0\Replace two words.deps.json
+C:\Mon_Code\Replace two words\bin\Debug\net7.0\Replace two words.runtimeconfig.json
+C:\Mon_Code\Replace two words\bin\Debug\net7.0\Replace two words.dll
+C:\Mon_Code\Replace two words\bin\Debug\net7.0\Replace two words.pdb
+C:\Mon_Code\Replace two words\obj\Debug\net7.0\Replace two words.csproj.AssemblyReference.cache
+C:\Mon_Code\Replace two words\obj\Debug\net7.0\Replace two words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Replace two words\obj\Debug\net7.0\Replace two words.AssemblyInfoInputs.cache
+C:\Mon_Code\Replace two words\obj\Debug\net7.0\Replace two words.AssemblyInfo.cs
+C:\Mon_Code\Replace two words\obj\Debug\net7.0\Replace two words.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Replace two words\obj\Debug\net7.0\Replace two words.dll
+C:\Mon_Code\Replace two words\obj\Debug\net7.0\refint\Replace two words.dll
+C:\Mon_Code\Replace two words\obj\Debug\net7.0\Replace two words.pdb
+C:\Mon_Code\Replace two words\obj\Debug\net7.0\Replace two words.genruntimeconfig.cache
+C:\Mon_Code\Replace two words\obj\Debug\net7.0\ref\Replace two words.dll
